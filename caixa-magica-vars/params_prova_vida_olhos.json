@@ -1,0 +1,6 @@
+{"ligado": false,
+ "limite_ear": 10,
+ "min_ear": 0.230,
+ "max_ear": 0.281,
+ "path_landmarks": "/home/pi/caixa-magica-rec-facial/share/shape_predictor_68_face_landmarks.dat"
+}

@@ -1,0 +1,1 @@
+{"habilitado": true, "indice_dimensoes":128, "indice_facial": "cm_face_recognition_128","limite_regs_indice_facial":500000, "total_particoes":30, "limite_fotos_conta":1, "url": "http://localhost:9200", "min_score_facial":0.945, "indice_facial_linha": "cm_face_linha_128", "health_check": "http://localhost:9200/_cat/health", "segundos_limite_start": 300, "usar_indice_linha": false}

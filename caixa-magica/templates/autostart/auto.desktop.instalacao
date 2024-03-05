@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Exec=bash /home/pi/caixa-magica/tela_instalacao.sh
+Name=Caixa Magica
+Encoding=UTF-8
+Terminal=true
+Type=Application
+Categories=Application;Network;
+

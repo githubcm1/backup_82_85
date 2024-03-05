@@ -1,0 +1,132 @@
+#########################################################################################
+##                                       NFC demo                                      ##
+#########################################################################################
+##                                 Poll mode activated                                 ##
+#########################################################################################
+                              ... press enter to quit ...
+
+Waiting for a Tag/Device...
+
+	NFC Tag Found
+
+        Type :         'Type A - Mifare Classic'
+        NFCID1 :    	'DA 41 D7 85 '
+		Record Found :
+				NDEF Content Max size :     '716 bytes'
+				NDEF Actual Content size :     '93 bytes'
+				ReadOnly :                      'FALSE'
+				Type :                 'Text'
+				Lang :                 'en'
+				Text :                 '#57714d8fce4b85cff982f6f800d6fc1b08a87de6#QXw0NDMxfDd8LTUuNnwxfDE4LjV8OHwzMHwyfDEyMQ=='
+
+
+		93 bytes of NDEF data received :
+		D1 01 59 54 02 65 6E 23 35 37 37 31 34 64 38 66 63 65 34 62 38 35 63 66 66 39 38 32 66 36 66 
+		38 30 30 64 36 66 63 31 62 30 38 61 38 37 64 65 36 23 51 58 77 30 4E 44 4D 78 66 44 64 38 
+		4C 54 55 75 4E 6E 77 78 66 44 45 34 4C 6A 56 38 4F 48 77 7A 4D 48 77 79 66 44 45 79 4D 51 
+		3D 3D 
+
+	NFC Tag Lost
+
+Waiting for a Tag/Device...
+
+	NFC Tag Found
+
+        Type :         'Type A - Mifare Classic'
+        NFCID1 :    	'DA 41 D7 85 '
+		Record Found :
+				NDEF Content Max size :     '716 bytes'
+				NDEF Actual Content size :     '93 bytes'
+				ReadOnly :                      'FALSE'
+				Type :                 'Text'
+				Lang :                 'en'
+				Text :                 '#57714d8fce4b85cff982f6f800d6fc1b08a87de6#QXw0NDMxfDd8LTUuNnwxfDE4LjV8OHwzMHwyfDEyMQ=='
+
+
+		93 bytes of NDEF data received :
+		D1 01 59 54 02 65 6E 23 35 37 37 31 34 64 38 66 63 65 34 62 38 35 63 66 66 39 38 32 66 36 66 
+		38 30 30 64 36 66 63 31 62 30 38 61 38 37 64 65 36 23 51 58 77 30 4E 44 4D 78 66 44 64 38 
+		4C 54 55 75 4E 6E 77 78 66 44 45 34 4C 6A 56 38 4F 48 77 7A 4D 48 77 79 66 44 45 79 4D 51 
+		3D 3D 
+
+	NFC Tag Lost
+
+Waiting for a Tag/Device...
+
+	NFC Tag Found
+
+        Type :         'Type A - Mifare Classic'
+        NFCID1 :    	'DA 41 D7 85 '
+		NDEF Content : NO, mode=1, tech=8
+
+		RAW Tag transceive failed
+Waiting for a Tag/Device...
+
+	NFC Tag Found
+
+        Type :         'Type A - Mifare Classic'
+        NFCID1 :    	'DA 41 D7 85 '
+		Record Found :
+				NDEF Content Max size :     '716 bytes'
+				NDEF Actual Content size :     '93 bytes'
+				ReadOnly :                      'FALSE'
+				Read NDEF Content Failed
+	NFC Tag Lost
+
+Waiting for a Tag/Device...
+
+	NFC Tag Found
+
+        Type :         'Type A - Mifare Classic'
+        NFCID1 :    	'DA 41 D7 85 '
+		Record Found :
+				NDEF Content Max size :     '716 bytes'
+				NDEF Actual Content size :     '93 bytes'
+				ReadOnly :                      'FALSE'
+				Type :                 'Text'
+				Lang :                 'en'
+				Text :                 '#57714d8fce4b85cff982f6f800d6fc1b08a87de6#QXw0NDMxfDd8LTUuNnwxfDE4LjV8OHwzMHwyfDEyMQ=='
+
+
+		93 bytes of NDEF data received :
+		D1 01 59 54 02 65 6E 23 35 37 37 31 34 64 38 66 63 65 34 62 38 35 63 66 66 39 38 32 66 36 66 
+		38 30 30 64 36 66 63 31 62 30 38 61 38 37 64 65 36 23 51 58 77 30 4E 44 4D 78 66 44 64 38 
+		4C 54 55 75 4E 6E 77 78 66 44 45 34 4C 6A 56 38 4F 48 77 7A 4D 48 77 79 66 44 45 79 4D 51 
+		3D 3D 
+
+	NFC Tag Lost
+
+Waiting for a Tag/Device...
+
+	NFC Tag Found
+
+        Type :         'Type A - Mifare Classic'
+        NFCID1 :    	'DA 41 D7 85 '
+		NDEF Content : NO, mode=1, tech=8
+
+		RAW Tag transceive failed
+Waiting for a Tag/Device...
+
+	NFC Tag Found
+
+        Type :         'Type A - Mifare Classic'
+        NFCID1 :    	'DA 41 D7 85 '
+		Record Found :
+				NDEF Content Max size :     '716 bytes'
+				NDEF Actual Content size :     '93 bytes'
+				ReadOnly :                      'FALSE'
+				Type :                 'Text'
+				Lang :                 'en'
+				Text :                 '#57714d8fce4b85cff982f6f800d6fc1b08a87de6#QXw0NDMxfDd8LTUuNnwxfDE4LjV8OHwzMHwyfDEyMQ=='
+
+
+		93 bytes of NDEF data received :
+		D1 01 59 54 02 65 6E 23 35 37 37 31 34 64 38 66 63 65 34 62 38 35 63 66 66 39 38 32 66 36 66 
+		38 30 30 64 36 66 63 31 62 30 38 61 38 37 64 65 36 23 51 58 77 30 4E 44 4D 78 66 44 64 38 
+		4C 54 55 75 4E 6E 77 78 66 44 45 34 4C 6A 56 38 4F 48 77 7A 4D 48 77 79 66 44 45 79 4D 51 
+		3D 3D 
+
+	NFC Tag Lost
+
+Waiting for a Tag/Device...
+
