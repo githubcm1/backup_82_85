@@ -1,3 +1,0 @@
-postgres    3048  0.0  0.4 579104 36756 ?        Ss   08:53   0:08 /usr/local/pgsql/bin/postgres -D /usr/local/pgsql/data
-root      206763  0.0  0.0   2616   592 pts/0    S+   13:26   0:00 sh -c sudo ps -aux | grep /usr/local/pgsql/ | sudo tee -a /home/pi/caixa-magica/check_database_alive.txt > /dev/null
-root      206765  0.0  0.0   9048  2672 pts/0    S+   13:26   0:00 grep /usr/local/pgsql/

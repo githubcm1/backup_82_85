@@ -1,6 +1,0 @@
-
-{"indices_faciais":
-	[{"prioridade": 0, "indice_dimensoes": 512, "indice_facial": "cm_face_recognition_512", "limite_regs_indice_facial":500000, "total_particoes":30, "limite_fotos_conta":1, "algoritmo": "arcface", "habilita_rec": true},
-	 {"prioridade": 1, "indice_dimensoes": 128, "indice_facial": "cm_face_recognition_128", "limite_regs_indice_facial":500000, "total_particoes":30, "limite_fotos_conta":1, "algoritmo": "dlib", "habilita_rec": true}
-	]
-}
